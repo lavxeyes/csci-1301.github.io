@@ -67,6 +67,18 @@ Jason Weeks:
 
 The instructors and UCAs should be your first point of contact for any questions regarding the content of this class.
 
+Kaylee O'Steen:
+~ 
+      - <kaosteen@augusta.edu>
+    - Responsible for Section E's lab
+    - The best way to contact me is via email. Since I am a UCA for a few other courses, please make sure that you inlcude the class in the subject line (i.e.; "1301 Lab" or "1301 Class"). I do have a full time course load, as well as assisting in other courses, so please be patient while waiting for a response - I will try and respond as soon as possible!
+    - My office hours are as follows (all are online, unless we schedule an in-person meeting time):
+        - Monday: 3:00pm - 6:00pm
+        - Tuesday: 2:30pm - 6:45pm
+        - Wednesday: 3:00pm - 6:00pm
+        - Thursday: 1:30pm - 3:45pm
+        - Friday: 2:00pm - 6:00pm
+    - I'm a Cyber Operations major. I was orginially a Chemistry major, but switch to the cyber realm after being introduced to a microcontroller known as the Arduino in my Physics lab! 
 <!--
 For this semester, your UCAs are:
 -->
